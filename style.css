@@ -125,7 +125,23 @@ i.fa:hover{
   left: 0;
   top: 0;
   bottom: 0;
+  text-align: center;
+
 }
+
+#summary{
+  padding:40px;
+}
+
+#favorite-movies{
+  padding: 40px;
+}
+
+#help{
+  padding:40px;
+}
+
+
 #page-content {
   margin-left: 200px;
 }
